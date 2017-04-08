@@ -1,13 +1,16 @@
 # URL Shortener Microservice
 
-  
-Example creation usage:
+ 
 
-https://green-kitty.herokuapp.com/new/https://www.google.com
+Example usage:
 
-https://green-kitty.herokuapp.com/new/http://foo.com:80
+Go to https://profuse-reason.herokuapp.com/
 
-Example creation output
+upload file
+
+server response
+
+server 
 
     { 
       size: 18564 
